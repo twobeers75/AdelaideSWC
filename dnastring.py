@@ -2,7 +2,9 @@
 # base_count
 # reverse_complement
 
-"""class DNAstring:
+"""
+	My attempt !!!
+	class DNAstring:
 	def __init__(self, string):
 		self.string = string	
 
